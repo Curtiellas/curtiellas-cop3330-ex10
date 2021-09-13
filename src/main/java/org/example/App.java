@@ -15,19 +15,19 @@ public class App
 
         final float taxRate = 0.055f;
 
-        System.out.println("Enter the price of item 1: ");
+        System.out.print("Enter the price of item 1: ");
         float item1Price = sc.nextFloat();
-        System.out.println("Enter the quantity of item 1: ");
+        System.out.print("Enter the quantity of item 1: ");
         int item1Quant = sc.nextInt();
 
-        System.out.println("Enter the price of item 2: ");
+        System.out.print("Enter the price of item 2: ");
         float item2Price = sc.nextFloat();
-        System.out.println("Enter the quantity of item 2: ");
+        System.out.print("Enter the quantity of item 2: ");
         int item2Quant = sc.nextInt();
 
-        System.out.println("Enter the price of item 3: ");
+        System.out.print("Enter the price of item 3: ");
         float item3Price = sc.nextFloat();
-        System.out.println("Enter the quantity of item 3: ");
+        System.out.print("Enter the quantity of item 3: ");
         int item3Quant = sc.nextInt();
 
         //calculate
